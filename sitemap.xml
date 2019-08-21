@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://daocloud-labs.github.io/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/DMP-version.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/Support-Lists.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/quick-start/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/register.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/springboot.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/jvm.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/non_jvm.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/discovey.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/spring-cloud-client.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/eureka-client.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/eureka/api.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/apollo/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/apollo/annotation.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/apollo/bootstrap.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/apollo/docker.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/apollo/json-and-xml-configFile.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/apollo/Apollo-GrayRule.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/apollo/Apollo-ConfigSerivce-In-Docker-k8s.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/apollo/Apollo-Public-Config.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/base.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/jar.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/war.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/docker.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/agent-settings.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/integration-log4j.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/common-agent-image.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/trace-ignore.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/optional-plugins/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/faq/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/skywalking/faq/eureka-server-error.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/ac-collector/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/ac-collector/QuickStart.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/ac-collector/AdvancedFeatures.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/ac-collector/FAQ.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/spec/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/spec/jvm-docker.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://daocloud-labs.github.io/spec/JVM-OOM文件储存方案.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>
